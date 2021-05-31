@@ -1,0 +1,16 @@
+{
+  "name": "class-notify",
+  "version": "1.0.0",
+  "description": "This is my first Node JS Class Notify !",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Not Test Yet.\" && exit 1"
+  },
+  "author": "OpecZ CH",
+  "license": "OpecZ CH"
+}
