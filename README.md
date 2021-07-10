@@ -3,7 +3,7 @@
 >บอทตัวนี้อนุญาติให้ใช้เพื่อศึกษาเท่านั้น ไม่อนุญาติให้นำไปขายต่อ หรือ ดัดแปลงแล้วขายต่อเด็ดขาด หากนำไปใช้กรุณาให้เครดิค
 
 ## **How To Use 🔰**
->Step 1. Edit `/config/config.json` Replate `Token` `Prefix` `Adminname` `AdminId` `BotID` `NameBot` `Sendclass` `Logoschool` `Schoollink` `Schoolname` And `LogsRoom`
+>Step 1. Edit `/config/config.json` Replate `Token` `Prefix` `Sent` `Logoschool` `Schoollink` `Schoolname`
 
 >Step 2. Edit `/config/class.json` => Class Monday 1
 
