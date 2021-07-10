@@ -1,0 +1,15 @@
+{
+    "token": "ODM2MDMyNjI0NjE4NzY2Mzc2.YIYGDg.1ILWHxawHU7Je_6pILS_37Q1Tzk",
+    "prefix": "!",
+    "version": "1",
+    "sent": "860736715391762462",
+    "logoschool": "https://cdn.discordapp.com/avatars/790981062003654656/0bf91f9c3b32a0fdbf1136f604b7ab43.png",
+    "schoollink": "https://www.facebook.com/PKWSchoolOfficial/",
+    "schoolname": "Phuket Wittayalai",
+    "color": {
+        "bot": "#f2f567",
+        "err": "#ff1a1a",
+        "warn": "#f2f567",
+        "ok": "#b0ff97"
+    }
+}
